@@ -1,0 +1,12 @@
+{
+  "name": "Lara AI Assistant",
+  "description": "A sassy, witty, and flirty AI companion. Voice-only interaction with a distinct personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Gemini Multi-modal Live API",
+    "Voice-to-Voice Interaction",
+    "Real-time Audio Processing"
+  ]
+}
